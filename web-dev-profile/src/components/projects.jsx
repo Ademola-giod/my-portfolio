@@ -29,7 +29,7 @@ const ProjectData = [
     image: FacultyNews,
     reverse: true,
     status: "Completed",
-    // live: "https://",
+     live: "https://faculty-newsapp.vercel.app",
     github: "https://github.com/Ademola-giod/email-authentication",
       tech: ["React","Tailwind CSS", "Node.js", "Express", "JWT", "AUTH0", "MongoDB",  "Cloudinary"],
     
@@ -41,7 +41,7 @@ const ProjectData = [
     image: AuthSystem,
     reverse: true,
     status: "Completed",
-    // live: "https://",
+   live: "https://mern-auth-six-nu.vercel.app",
     github: "https://github.com/Ademola-giod/email-authentication",
       tech: ["React","Tailwind CSS", "Node.js", "Express", "JWT", "MongoDB"],
       
@@ -64,6 +64,7 @@ const ProjectData = [
       "An app that converts text to speech",
     image: TextToSpeech,
     status: "In Progress",
+       live: "https://mern-auth-six-nu.vercel.app",
         github: "https://github.com/Ademola-giod/Text-to-speech-converter",
      tech: ["HTML", "CSS", "JAVASCRIPT"],
   },
