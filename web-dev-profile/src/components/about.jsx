@@ -45,7 +45,7 @@
 
 
 import { motion } from "framer-motion";
-import MeImg from "../assets/me.png";
+import MeImg from "../assets/Me.png";
 
 export default function About() {
   return (
